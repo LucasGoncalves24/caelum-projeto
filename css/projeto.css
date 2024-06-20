@@ -1,0 +1,190 @@
+body{
+	
+}
+
+header{
+	position: relative;
+	padding: 10px;
+	background-color: #fff;
+}
+
+.logo-principal img{
+	width: 480px;
+	height: 90px;
+}
+
+/*-----------------------------------*/
+.opcao ul{
+	position: absolute;
+	right: 10px;
+	bottom: 60px;
+}
+
+input{
+	border-radius: 10px;
+}
+
+.opcao li {
+	display: inline;
+	margin-right: 50px;
+}
+
+/*-----------------------------------*/
+.menu{
+	padding: 10px;
+	position: relative;
+	background-color: #fff;
+	border-bottom: solid 1px black;
+}
+
+.menu ul{
+	margin-left: 50px;
+}
+
+.menu li{
+	display: inline;
+	margin-right: 10px;
+	border: solid 1px black;
+}
+.menu a{
+	padding: 50px;
+}
+
+/*-----------------------------------*/
+.tel{
+	position: absolute;
+	bottom: 10px;
+	right: 50px;
+	vertical-align: center;
+}
+
+.tel p{
+	float: left;
+	margin-right: 50px;
+}
+
+/*-----------------------------------*/
+.tela{
+	float: left;	
+	height: 450px;
+	margin-top: 20px;
+	text-align: center;
+	width: 600px;
+}
+
+.tela h2{
+	font-size: 24px;
+	border-bottom: solid 1px black;
+	margin-top: 30px;
+	padding: 10px;
+}
+
+.tela iframe{
+	margin-top: 10px;
+	padding: 10px;
+}
+
+/*-----------------------------------*/
+.formulario{
+	float: right;
+	margin-top: 90px; 
+	text-align: center;
+	width: 300px;
+}
+
+.formulario form{
+	margin-top: 20px;
+	text-align: center;
+	border-radius: 10px;
+	padding: 20px;
+	background: linear-gradient(#fff, #333);
+}
+
+.formulario li{
+	margin-top: 20px;
+	margin-bottom: 10px;
+	font-size: 20px;
+}
+
+.formulario h2{
+	font-size: 30px;
+}
+
+/*-----------------------------------*/
+.separador{
+	clear: left;
+	height: 50px;
+}
+
+/*-----------------------------------*/
+.fot {
+	text-align: center;
+	background-color: #999;
+}
+
+.fot h2{
+	border-bottom: solid 1px black;
+	padding: 10px;
+}
+.fot a{
+	display: block;
+	margin-top: 10px;
+}
+
+.fot p{
+	margin-top: 30px;
+}
+
+.fot input{
+	margin-top: 30px;
+}
+
+.fot div{
+	display: inline-block;
+	vertical-align: top;
+	width: 140px;
+	margin: 2px;
+	padding-bottom: 10px;
+	margin: 10px 30px;
+}
+
+/*-----------------------------------*/
+.rodape {
+	position: relative;
+	border: solid 1px black;
+	margin-top: 2px;
+    height: 50px;
+	background-color: #000;
+	color: #fff;
+}
+
+.rodape ul{
+	margin-top: 20px;
+}
+
+.rodape a{
+	color: #fff;
+}
+
+.rodape li{
+	display: inline;	
+	margin-left: 40px;
+}
+
+/*-----------------------------------*/
+.Logo-Rodape {
+	position: absolute;
+	right: 50px;
+	top: 10px;
+}
+
+.Logo-Rodape img{
+	width: 100px;
+	height: 35px;
+}
+
+.container {
+	margin: 0 auto;
+	width: 940px;
+	background-color: #295;
+}
